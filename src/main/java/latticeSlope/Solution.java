@@ -1,3 +1,5 @@
+package latticeSlope;
+
 public class Solution {
     public String solution(int ax, int ay, int bx, int by) {
         int cx = 0;
